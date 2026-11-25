@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+        fist       0.99      1.00      0.99      4877
+        like       0.99      1.00      0.99      4940
+  no_gesture       1.00      0.99      1.00     25867
+         one       0.99      0.99      0.99      4943
+        palm       0.99      1.00      1.00      4991
+       peace       0.99      0.99      0.99      4953
+      two_up       0.99      0.99      0.99      4936
+
+    accuracy                           0.99     55507
+   macro avg       0.99      0.99      0.99     55507
+weighted avg       0.99      0.99      0.99     55507

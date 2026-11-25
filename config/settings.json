@@ -1,0 +1,37 @@
+{
+    "camera": {
+        "index": 0,
+        "width": 1280,
+        "height": 720,
+        "fps": 30
+    },
+    "recognition": {
+        "confidence_threshold": 0.8,
+        "stable_frames": 3,
+        "history_size": 5
+    },
+    "cursor": {
+        "camera_margin": 0.12,
+        "min_smoothing": 0.12,
+        "max_smoothing": 0.65,
+        "speed_reference": 180.0,
+        "dead_zone": 2.0
+    },
+    "clicks": {
+        "cooldown_seconds": 0.75
+    },
+    "pause_resume": {
+        "cooldown_seconds": 1.0
+    },
+    "scroll": {
+        "upper_limit": 0.44,
+        "lower_limit": 0.56,
+        "interval_seconds": 0.055,
+        "amount": 4
+    },
+    "safety": {
+        "start_enabled": false,
+        "pyautogui_failsafe": true,
+        "require_explicit_enable": true
+    }
+}

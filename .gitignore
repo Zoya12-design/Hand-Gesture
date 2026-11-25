@@ -1,0 +1,7 @@
+data/processed/landmarks.csv
+data/raw/hagrid/annotations.zip
+models/extra_trees.joblib
+__pycache__/
+*.pyc
+.venv/
+venv/

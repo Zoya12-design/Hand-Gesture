@@ -1,0 +1,10 @@
+{
+    "model": "ExtraTreesClassifier",
+    "test_samples": 55507,
+    "features": 40,
+    "accuracy": 0.993910677932513,
+    "macro_f1": 0.9923900576432555,
+    "weighted_f1": 0.9939121601511428,
+    "batch_prediction_time_seconds": 0.29797419998794794,
+    "average_prediction_time_ms": 0.00536822743055737
+}
